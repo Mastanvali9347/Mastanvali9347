@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm PATAN MASTANVALI</h1>
-<h3 align="center">🎓 ECE (Electronics & Communication Engineering) Student 💻 Frontend Developer | Backend Developer 🚀 Passionate about building real-world web applications and security-based tools</h3>
+<h3 align="center">🎓 ECE (Electronics & Communication Engineering) Student 
+  💻 Frontend Developer | Backend Developer 
+  🚀 Passionate about building real-world web applications and security-based tools</h3>
 
 - 👨‍💻 All of my projects are available at [https://portfolio-inky-seven-jaiy9ucknk.vercel.app/](https://portfolio-inky-seven-jaiy9ucknk.vercel.app/)
 
